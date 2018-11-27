@@ -18,7 +18,7 @@
     </message>
     <message>
         <source>upLoadFile</source>
-        <translation type="obsolete">upLoadFile</translation>
+        <translation type="obsolete">Загрузить файл</translation>
     </message>
 </context>
 </TS>
